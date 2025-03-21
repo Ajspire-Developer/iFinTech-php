@@ -41,7 +41,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-light top-nav">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
 				<img src="images/logo.png" alt="logo">
             </a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -64,6 +64,9 @@
 					<li class="nav-item">
 						<a class="nav-link" href="contact-us.php">Contact</a>
 					</li>
+					<li class="nav-item">
+    <a class="nav-link btn btn-primary text-white px-3" href="inquiry.php">Inquiry</a>
+</li>
 				</ul>
             </div>
         </div>
