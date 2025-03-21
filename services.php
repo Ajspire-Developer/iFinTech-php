@@ -25,81 +25,93 @@ include 'header.php'
 	</div>
 
 
+
     <div class="services-bar">
-		<div class="container">
-			<h1 class="py-4">Our Best Services </h1>
-			<!-- Services Section -->
-			<div class="row">
-			   <div class="col-lg-4 mb-4">
-					<div class="card h-100">
-						<div class="card-img">
-							<img class="img-fluid" src="images/services-img-01.jpg" alt="">
-						</div>
-						<div class="card-body">
-							<h4 class="card-header"> Analytics </h4>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-						</div>
-					</div>
-			   </div>
-			   <div class="col-lg-4 mb-4">
-					<div class="card h-100">
-						<div class="card-img">
-							<img class="img-fluid" src="images/services-img-02.jpg" alt="">
-						</div>
-						<div class="card-body">
-							<h4 class="card-header"> Applications </h4>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-						</div>
-					</div>
-			   </div>
-			   <div class="col-lg-4 mb-4">
-					<div class="card h-100">
-						<div class="card-img">
-							<img class="img-fluid" src="images/services-img-03.jpg" alt="">
-						</div>
-						<div class="card-body">
-							<h4 class="card-header"> Business Process </h4>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-						</div>
-					</div>
-			   </div>
-			   <div class="col-lg-4 mb-4">
-					<div class="card h-100">
-						<div class="card-img">
-							<img class="img-fluid" src="images/services-img-04.jpg" alt="">
-						</div>
-						<div class="card-body">
-							<h4 class="card-header"> Consulting </h4>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-						</div>						
-					</div>
-			   </div>
-			   <div class="col-lg-4 mb-4">
-					<div class="card h-100">
-						<div class="card-img">
-							<img class="img-fluid" src="images/services-img-05.jpg" alt="">
-						</div>
-						<div class="card-body">
-							<h4 class="card-header"> Infrastructure </h4>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-						</div>						
-					</div>
-			   </div>
-			   <div class="col-lg-4 mb-4">
-					<div class="card h-100">
-						<div class="card-img">
-							<img class="img-fluid" src="images/services-img-06.jpg" alt="">
-						</div>
-						<div class="card-body">
-							<h4 class="card-header"> Product Engineering </h4>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-						</div>
-					</div>
-			   </div>
-			</div>
-			<!-- /.row -->
-		</div>
-	</div>
+    <div class="container">
+        <h1 class="py-4 text-center">Our Best Loan Services</h1>
+        <!-- Services Section -->
+        <div class="row">
+            <!-- Car Loan -->
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-img">
+                        <img class="img-fluid" src="images/Car-Loan.png" alt="Car Loan">
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-header">Car Loan</h4>
+                        <p class="card-text">Get easy and affordable car loans with low interest rates and flexible repayment options.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Doctor Loan -->
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-img">
+                        <img class="img-fluid" src="images/Doctor-Loan.png" alt="Doctor Loan">
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-header">Doctor Loan</h4>
+                        <p class="card-text">Exclusive loans for medical professionals to expand clinics or purchase medical equipment.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Home Loan -->
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-img">
+                        <img class="img-fluid" src="images/Home-Loan.png" alt="Home Loan">
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-header">Home Loan</h4>
+                        <p class="card-text">Finance your dream home with our low-interest home loan options and quick approvals.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Loan Against Property (LAP Loan) -->
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-img">
+                        <img class="img-fluid" src="images/LAP-Loan.png" alt="LAP Loan">
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-header">LAP Loan</h4>
+                        <p class="card-text">Unlock the value of your property with our Loan Against Property for personal or business needs.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Business Loan -->
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-img">
+                        <img class="img-fluid" src="images/Business-Loan.png" alt="Business Loan">
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-header">Business Loan</h4>
+                        <p class="card-text">Fund your business expansion or working capital needs with our easy and fast business loans.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Personal Loan -->
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-img">
+                        <img class="img-fluid" src="images/Personal-Loan.png" alt="Personal Loan">
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-header">Personal Loan</h4>
+                        <p class="card-text">Get instant personal loans for travel, education, or emergencies with minimal paperwork.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+    </div>
+</div>
 
 <?php
 include 'footer.php'

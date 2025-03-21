@@ -24,20 +24,36 @@ include 'header.php'
 			</div>
 		</div>
 	</div>
-    <div class="about-main">
-			<div class="row">
-				<div class="col-lg-6">
-					<img class="img-fluid rounded mb-4" src="images/about-img.jpg" alt="">
-				</div>
-				<div class="col-lg-6">
-					<h2>About Modern Business</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, magni, aperiam vitae illum voluptatum aut sequi impedit non velit ab ea pariatur sint quidem corporis eveniet. Odit, temporibus reprehenderit dolorum!</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis?</p>
-				</div>
-			</div>
-			<!-- /.row -->
-		</div>
+	<div class="about-main">
+    <div class="row">
+        <div class="col-lg-6">
+            <img class="img-fluid rounded mb-4" src="images/fav.png" alt="About iFinTech">
+        </div>
+        <div class="col-lg-6">
+		<h2>About iFinTech</h2>
+<p>At <strong>iFinTech</strong>, we are committed to providing financial solutions tailored to your needs. Whether you're looking for a personal loan, a business loan, or home financing, we make the process seamless and hassle-free.</p>
+
+<p>With years of expertise in the financial industry, we offer <strong>quick approvals, competitive interest rates, and flexible repayment options</strong> to help you achieve your goals. Our dedicated team of financial experts ensures that you receive the best loan options suited to your financial situation.</p>
+
+<p>At iFinTech, we prioritize <strong>transparency, reliability, and customer satisfaction</strong>. Our loan application process is simple and designed to save you time, ensuring you get the funds you need without unnecessary delays.</p>
+
+<h4>Why Choose iFinTech?</h4>
+<ul>
+    <li><strong>Instant Loan Approvals</strong> – Quick and hassle-free processing.</li>
+    <li><strong>Minimal Documentation</strong> – Simple paperwork for faster disbursal.</li>
+    <li><strong>Flexible Repayment Options</strong> – Easy EMI plans to suit your budget.</li>
+    <li><strong>Competitive Interest Rates</strong> – Affordable and customer-friendly rates.</li>
+    <li><strong>Trusted Financial Partner</strong> – Helping thousands achieve their financial goals.</li>
+</ul>
+
+<p>Our mission is to empower individuals and businesses with the right financial tools. Whether you're buying a car, expanding your business, or securing your dream home, trust iFinTech to be your <strong>reliable financial partner</strong> in your journey to success.</p>
+
+<p><a href="contact.php" class="btn btn-primary">Apply for a Loan Now</a></p>
+        </div>
+    </div>
+    <!-- /.row -->
+</div>
+
 
 <?php
 include 'footer.php'
